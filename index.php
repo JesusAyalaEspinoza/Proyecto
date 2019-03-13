@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	<p>Prueba 1</p>
+	<p>Prueba 2</p>
 </body>
 </html>
